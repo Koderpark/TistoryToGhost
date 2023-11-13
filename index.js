@@ -25,4 +25,7 @@ app.get('/:slug', function(req,res) {
   }
 })
 
-// 이제 터미널에 node app.js 를 입력해보자.
+app.get('*',function (req, res) {
+  res.set('location', 'https://koder0205.tistory.com/'+req.url);
+  res.status(302).send();
+});
