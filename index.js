@@ -26,6 +26,6 @@ app.get('/:slug', function(req,res) {
 })
 
 app.get('*',function (req, res) {
-  res.set('location', 'https://koder0205.tistory.com/'+req.url);
+  res.set('location', 'https://koder0205.tistory.com'+req.url);
   res.status(302).send();
 });
