@@ -19,7 +19,6 @@
   "259" : "https://blog.koder.page/sw-talent-3rd/",
   "302" : "https://blog.koder.page/2023-scholarship/",
   "401" : "https://blog.koder.page/2023-kmu-cau-programming-contest/",
-
   "76" : "https://blog.koder.page/buy-google-domain/",
   "88" : "https://blog.koder.page/synology-group-permission/",
   "164" : "https://blog.koder.page/synology-password-settings/",
@@ -30,5 +29,19 @@
   "214" : "https://blog.koder.page/synology-domain/",
   "215" : "https://blog.koder.page/synology-reverse-proxy/",
   "217" : "https://blog.koder.page/synology-npm-install/",
-  "218" : "https://blog.koder.page/synology-npm-wildcard-ssl/"
+  "218" : "https://blog.koder.page/synology-npm-wildcard-ssl/",
+
+  "234" : "https://blog.koder.page/synology-google-domain/",
+  "249" : "https://blog.koder.page/synology-docker-permission-denied/",
+  "304" : "https://blog.koder.page/proxmox-7-4-merge-local/",
+  "306" : "https://blog.koder.page/proxmox-xpenology/",
+  "307" : "https://blog.koder.page/proxmox-helper-scripts/",
+  "309" : "https://blog.koder.page/proxmox-docker-portainer/",
+  
+  "310" : "https://blog.koder.page/synology-nfs-ubuntu/",
+  "311" : "https://blog.koder.page/proxmox-windows11-install/",
+  "312" : "https://blog.koder.page/moonlight-remote-connection/",
+  "321" : "https://blog.koder.page/windows11-rdp/",
+  "322" : "https://blog.koder.page/proxmox8-igpu-passthrough/",
+  "346" : "https://blog.koder.page/jenkins-installation/"
 }
