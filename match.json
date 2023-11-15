@@ -5,7 +5,6 @@
   "250" : "https://blog.koder.page/retrospect-2022-1st/",
   "260" : "https://blog.koder.page/retrospect-2022-2nd/",
   "308" : "https://blog.koder.page/retrospect-2023-1st/",
-
   "32" : "https://blog.koder.page/review-ioikorea/",
   "33" : "https://blog.koder.page/5th-kmu-algorithm-contest/",
   "34" : "https://blog.koder.page/5th-kmu-algorithm-contest/",
@@ -15,11 +14,21 @@
   "179" : "https://blog.koder.page/2021-sejong-oi",
   "202" : "https://blog.koder.page/2021-sejong-hackathon",
   "247" : "https://blog.koder.page/2022-sejong-oi/",
-
   "257" : "https://blog.koder.page/sw-talent-1st/",
   "258" : "https://blog.koder.page/sw-talent-2nd/",
   "259" : "https://blog.koder.page/sw-talent-3rd/",
-
   "302" : "https://blog.koder.page/2023-scholarship/",
-  "401" : "https://blog.koder.page/2023-kmu-cau-programming-contest/"
+  "401" : "https://blog.koder.page/2023-kmu-cau-programming-contest/",
+
+  "76" : "https://blog.koder.page/buy-google-domain/",
+  "88" : "https://blog.koder.page/synology-group-permission/",
+  "164" : "https://blog.koder.page/synology-password-settings/",
+  "165" : "https://blog.koder.page/synology-raid/",
+  "210" : "https://blog.koder.page/synology-change-hdd/",
+  "211" : "https://blog.koder.page/synology-package-list-add/",
+  "212" : "https://blog.koder.page/synology-shared-folder/",
+  "214" : "https://blog.koder.page/synology-domain/",
+  "215" : "https://blog.koder.page/synology-reverse-proxy/",
+  "217" : "https://blog.koder.page/synology-npm-install/",
+  "218" : "https://blog.koder.page/synology-npm-wildcard-ssl/"
 }
